@@ -6,7 +6,7 @@
 #
 #    http://shiny.rstudio.com/
 #
-#### Initial framework for GU shiny app
+#### Initial framework for GU shiny app - here I changed something minimal.
 
 
 library(shiny)
