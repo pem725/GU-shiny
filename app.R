@@ -8,6 +8,14 @@
 #
 #### Initial framework for GU shiny app - here I changed something minimal.
 
+### Workflow for Github and this project ----
+# 1.  Open GU-shiny project
+# 2.  Pull the latest (blue down arrow in Git tab)
+# 3.  Open app.R and start editing
+# 4.  Check the app by running it (green right diamond with "RunApp" tag)
+# 5.  When happy, push your changes to your local git repo (that is git running on your computer)
+# 6.  When we are all happy, push your changes to the GitHub repo (green up arrow in Git tab)
+# 7.  Save early, save often on your local computer
 
 library(shiny)
 
